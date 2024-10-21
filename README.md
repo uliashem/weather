@@ -29,13 +29,13 @@ The app allows you to track the weather in different cities.
 **1. Clone the repository**
 
 ```sh
-git clone https://github.com/uliashem/Christmas.git
+git clone https://github.com/uliashem/weather.git
 ```
 
 **2. Navigate to TodoList Folder**
 
 ```sh
-cd Christmas
+cd weather
 ```
 
 ## 👨🏻‍💻 Running
